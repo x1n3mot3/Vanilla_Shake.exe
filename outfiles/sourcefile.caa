@@ -1,0 +1,16 @@
+<Insiders>
+<language:TFW>
+    <filename:"sourcefile.caa">
+#filefind
+{}
+    {SOURCE}
+    {Temp}
+{}
+<sourcename:TempPF>
+    {}
+    <CRLF>
+    {datfilename=false}
+    CATEGORY dim create "FilenameResourceFindCRLF.csproj.resources"
+%default% 
+    return
+{}
